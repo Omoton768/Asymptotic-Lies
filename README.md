@@ -31,5 +31,3 @@ tools/    helper scripts
 ## Credits
 
 Dane Miller and Dylan Didier, COMP 3350 (Computer Organization and Assembly), Auburn University, Fall 2026.
-
-Inspired by Roman Paolucci's Grid World Search from the Quant Guild library. That code isn't included here.
